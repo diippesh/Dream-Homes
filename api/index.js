@@ -7,7 +7,10 @@ import listingRouter from './routes/listing.route.js';
 import cookieParser from 'cookie-parser';
 import path from 'path';
 dotenv.config();
-
+if (!process.env.MONGO) {
+  console.error('Error: MONGO environment variable is not set.');
+  process.exit(1);
+}
 mongoose
   .connect(process.env.MONGO)
   .then(() => {
