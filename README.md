@@ -97,8 +97,8 @@ Dream Homes is MERN Stack e-commerce web application that allows you to list you
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin]](https://www.linkedin.com/in/deepesh-bhatiya-1b6798188/)
-[![GitHub]](https://github.com/diippesh/)
+[[linkedin]](https://www.linkedin.com/in/deepesh-bhatiya-1b6798188/)
+[[GitHub]](https://github.com/diippesh/)
 
 © 2024 Deepesh Bhatiya
 
